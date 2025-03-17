@@ -26,8 +26,8 @@ author:
   name             : "Shilin Shan"
   pronouns         : # example: "she/her"  
   bio              : "Robotics PhD at NTU"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Singapore"
+  employer         : Nanyang Technological University"
   uri              : # URL
   email            : "SHILIN001@e.ntu.edu.sg" 
 
@@ -35,7 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   # impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  # github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/shilin-shan-99475a17b
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
