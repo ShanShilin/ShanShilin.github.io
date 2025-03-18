@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   name             : "Shilin Shan"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Robotics PhD student at NTU"
   location         : "Singapore"
   employer         : 
