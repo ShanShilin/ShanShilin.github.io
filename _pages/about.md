@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Shilin Shan is a Ph.D. candidate at [Nanyang Technological University](https://www.ntu.edu.sg). His research interests include robotic manipulation and dynamics identification, empowered by deep learning, supervised by Prof. Quang-Cuong Pham and Prof. Domenico Campolo. Shilin holds a Bachelor’s degree from Nanyang Technological University.
+Shilin Shan is a Ph.D. candidate at [Nanyang Technological University](https://www.ntu.edu.sg), specializing in robotic manipulation, dynamics modeling, and physical human-robot interaction with a focus on deep learning. He is supervised by Prof. Quang-Cuong Pham and Prof. Domenico Campolo. 
 
-Shilin obtained his bachelor degree (2021) from NTU, School of Mechanical and Areospace Engineering
+Shilin earned his Bachelor's degree from Nanyang Technological University (2021) with Highest Distinction.
 
 [Email](mailto:SHILIN001@e.ntu.edu.sg)
 [LinkedIn](https://www.linkedin.com/in/shilin-shan-99475a17b/)
@@ -98,9 +98,7 @@ Awards
 Professional Service
 -----
 
-Reviewer:<br />
-∙ Journal Reviewer: RA-L<br />
-∙ Conference Reviewer: ICRA<br />
+Reviewer: RA-L, ICRA <br />
 
 Teaching
 -----
