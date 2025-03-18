@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "1909.jpg"
   name             : "Shilin Shan"
-  pronouns         : # example: "she/her"  
+  avatar           : "shanshilin.jpg"
   bio              : "Robotics PhD at NTU"
+  pronouns         : # example: "she/her"  
   location         : "Singapore"
-  employer         : Nanyang Technological University"
+  employer         : Nanyang Technological University
   uri              : # URL
   email            : "SHILIN001@e.ntu.edu.sg" 
 
