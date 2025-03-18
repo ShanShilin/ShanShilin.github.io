@@ -34,13 +34,13 @@ Ph.D. student at NTU<br />
 Publications
 -----
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/paper1.jpg" width="160" height="140">
-### Paper Title 1
+### Fast Payload Calibration for Sensorless Contact Estimation Using Model Pre-training
 <p style="line-height:1.0">
 <font size="2">
-<strong>Shilin Shan</strong>, xxxx† <br />
-arXiv Preprint, 2024
-<a href="https://arxiv.org">Paper</a> | 
-<a href="https://www.youtube.com/">Video</a>
+<strong>Shilin Shan†</strong>, Quang-Cuong Pham† <br />
+Robotics and Automation Letters (RA-L), 2024
+<a href="https://arxiv.org/abs/2409.03369">Paper</a> | 
+<a href="https://youtu.be/aSl1Ke7fFQI">Video</a>
 <br />
 </font>
 </p>
@@ -49,19 +49,18 @@ arXiv Preprint, 2024
 
 Awards
 -----
-∙ [2020] NTU President Research Scholar<br />
-∙ [2019] Dean’s List<br />
+∙ [2019] NTU President Research Scholar<br />
+∙ [2018 & 2019] Dean’s List (School of Mechanical and Areospace Engineering)<br />
 ∙ [2017] NTU Science and Engineering Undergraduate Scholarship<br />
 
 Professional Service
 -----
 
------
 Reviewer:<br />
-∙ Conference Reviewer: xxx<br />
-∙ Journal Reviewer: xxx<br />
-∙ Workshop Reviewer: xxx
+∙ Journal Reviewer: RA-L<br />
+∙ Conference Reviewer: ICRA<br />
 
 Teaching
 -----
-∙ Teaching Assistant: xxx<br />
+∙ Teaching Assistant: MA2012 Introduction to Mechtronics System Design, NTU, 2024 Spring<br />
+∙ Teaching Assistant: MA2071 Hands-on AR/VR, NTU, 2023 & 2024 Spring<br />
