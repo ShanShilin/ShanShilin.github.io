@@ -38,7 +38,7 @@ Publications
 <p style="line-height:1.0">
 <font size="2">
 <strong>Shilin Shan†</strong>, Quang-Cuong Pham <br />
-Robotics and Automation Letters (<strong>RA-L</strong>), 2024
+IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2024
 <a href="https://arxiv.org/abs/2409.03369">Paper</a> | 
 <a href="https://youtu.be/aSl1Ke7fFQI">Video</a>
 <br />
@@ -64,12 +64,13 @@ IEEE International Conference on Robotics and Automation (<strong>ICRA</strong>)
 <p style="line-height:1.0">
 <font size="2">
 <strong>Shilin Shan†</strong>, Quang-Cuong Pham <br />
-Robotics and Automation Letters (<strong>RA-L</strong>), 2023
+IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2023
 <a href="https://arxiv.org/pdf/2301.13413">Paper</a> | 
 <a href="https://youtu.be/spztx3GzPzc">Video</a>
 <br />
 </font>
 </p>
+-----
 
 
 Awards
