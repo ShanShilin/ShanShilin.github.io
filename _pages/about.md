@@ -19,16 +19,26 @@ News
 
 Education
 -----
-<img style="float: left; margin:5px 10px" src="../images/NTU_logo.png" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="../images/ntu_logo_new.png" width="160" height="104">
 ### Nanyang Technological University
 <p style="line-height:1.0">
 <font size="2">
 Aug 2021 - Present<br />
-Ph.D. student at NTU<br />
+Ph.D. student at School of Mechanical and Areospace Engineering<br />
 </font>
 </p>
 -----
 
+<img style="float: left; margin:5px 10px" src="../images/ntu_logo_new.png" width="160" height="104">
+### Nanyang Technological University
+<p style="line-height:1.0">
+<font size="2">
+Aug 2017 - May 2021 <br />
+B.E. in Mechanical Engineering (Mechatronincs and Robotics)<br />
+CGPA: 4.82 / 5.00 <br />
+</font>
+</p>
+-----
 
 
 Publications
