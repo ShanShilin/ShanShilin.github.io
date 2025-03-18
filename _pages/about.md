@@ -59,7 +59,7 @@ IEEE International Conference on Robotics and Automation (<strong>ICRA</strong>)
 </p>
 -----
 
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/paper1.jpg" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="../images/Fine_sensorless_manip_teasor_new.png" width="160" height="120">
 ### Fine Robotic Manipulation without Force/Torque Sensor
 <p style="line-height:1.0">
 <font size="2">
