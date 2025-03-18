@@ -46,7 +46,7 @@ Robotics and Automation Letters (<strong>RA-L</strong>), 2024
 </p>
 -----
 
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/paper1.jpg" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="../images/sensorless_contact_est_teasor_new.png" width="160" height="96">
 ### Sensorless Estimation of Contact Using Deep-Learning for Human-robot Interaction
 <p style="line-height:1.0">
 <font size="2">
