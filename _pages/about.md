@@ -50,6 +50,7 @@ Publications
 -----
 
 †: corresponding author <br />
+
 <img style="float: left; margin:5px 10px" src="../images/fast_payload_calib_teasor_new.png" width="160" height="106">
 ### Fast Payload Calibration for Sensorless Contact Estimation Using Model Pre-training
 <p style="line-height:1.0">
