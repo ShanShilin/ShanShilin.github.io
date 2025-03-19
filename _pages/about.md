@@ -106,4 +106,4 @@ Reviewer: RA-L, ICRA <br />
 Teaching
 -----
 ∙ Teaching Assistant: MA2012 Introduction to Mechatronics System Design, NTU, 2024 Spring<br />
-∙ Teaching Assistant: MA2071 Hands-on AR/VR, NTU, 2023 & 2024 Spring<br />
+∙ Teaching Assistant: MA2071 Hands-on Augmented Reality / Virtual Reality, NTU, 2023 & 2024<br />
