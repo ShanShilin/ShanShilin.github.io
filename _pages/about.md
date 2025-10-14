@@ -78,7 +78,7 @@ IEEE International Conference on Robotics and Automation (<strong>ICRA</strong>)
 </p>
 -----
 
-<img style="float: left; margin:5px 10px" src="../images/Fine_sensorless_manip_teasor_new.png" width="160" height="120">
+<img src="../images/Fine_sensorless_manip_teasor_new.png" style="float:left; width:160px !important; height:110px !important; object-fit:fill; max-width:none !important; display:inline-block !important; margin:5px 10px;">
 ### Fine Robotic Manipulation without Force/Torque Sensor
 <p style="line-height:1.0">
 <font size="2">
@@ -92,7 +92,7 @@ IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2023
 <div style="clear: both;"></div>
 -----
 
-<img src="../images/chain_bt_end_fix.png" style="float:left; width:160px !important; height:110px !important; object-fit:fill; max-width:none !important; display:inline-block !important; margin:5px 10px;">
+<img src="../images/chain_bt_end_fix.png" style="float:left; width:160px !important; height:115px !important; object-fit:fill; max-width:none !important; display:inline-block !important; margin:5px 10px;">
 ### Robotic Manipulation of a Rotating Chain with Bottom End Fixed  
 <p style="line-height:1.0">
 <font size="2">
