@@ -17,6 +17,7 @@ Shilin earned his Bachelor's degree from Nanyang Technological University (2021)
 
 News
 -----
+∙ [2025-03] One paper accepted to IROS 2025 <br />
 ∙ [2024-09] One paper accepted to RA-L <br />
 ∙ [2024-01] One paper accepted to ICRA 2024 <br />
 ∙ [2023-12] One paper accepted to RA-L <br />
@@ -85,6 +86,19 @@ IEEE International Conference on Robotics and Automation (<strong>ICRA</strong>)
 IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2023
 <a href="https://arxiv.org/pdf/2301.13413">Paper</a> | 
 <a href="https://youtu.be/spztx3GzPzc">Video</a>
+<br />
+</font>
+</p>
+-----
+
+<img style="float: left; margin:5px 10px" src="../images/Fine_sensorless_manip_teasor_new.png" width="160" height="120">
+### Robotic Manipulation of a Rotating Chain with Bottom End Fixed  
+<p style="line-height:1.0">
+<font size="2">
+Chen Qi Jing†, <strong> Shan Shilin </strong>, Quang-Cuong Pham <br />
+IEEE/RSJ International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), 2025
+<a href="https://arxiv.org/abs/2506.18355">Paper</a> | 
+<a href="https://youtu.be/Hhag8Ea5x30">Video</a>
 <br />
 </font>
 </p>
