@@ -91,7 +91,7 @@ IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2023
 </p>
 -----
 
-<img style="float: left; margin:5px 10px" src="../images/chain_bt_end_fix.png" width="160" height="90">
+<img style="float: left; margin:5px 15px" src="../images/chain_bt_end_fix.png" width="160" height="90">
 ### Robotic Manipulation of a Rotating Chain with Bottom End Fixed  
 <p style="line-height:1.0">
 <font size="2">
@@ -115,7 +115,7 @@ Awards
 Professional Service
 -----
 
-Reviewer: RA-L, ICRA <br />
+Reviewer: RA-L, ICRA, IROS <br />
 
 Teaching
 -----
