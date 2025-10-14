@@ -89,19 +89,21 @@ IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2023
 <br />
 </font>
 </p>
+<div style="clear: both;"></div>
 -----
 
-<img style="float: left; margin:5px 15px" src="../images/chain_bt_end_fix.png" width="160" height="90">
+<img style="float: left; margin:5px 10px" src="../images/chain_bt_end_fix.png" width="160" height="90">
 ### Robotic Manipulation of a Rotating Chain with Bottom End Fixed  
 <p style="line-height:1.0">
 <font size="2">
 Chen Qi Jing†, <strong> Shan Shilin </strong>, Quang-Cuong Pham <br />
-IEEE/RSJ International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), 2025
+IEEE International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), 2025
 <a href="https://arxiv.org/abs/2506.18355">Paper</a> | 
 <a href="https://youtu.be/Hhag8Ea5x30">Video</a>
 <br />
 </font>
 </p>
+<div style="clear: both;"></div>
 -----
 
 
