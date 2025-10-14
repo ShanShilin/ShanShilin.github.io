@@ -92,7 +92,7 @@ IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2023
 <div style="clear: both;"></div>
 -----
 
-<img style="float: left; margin:5px 10px" src="../images/chain_bt_end_fix.png" width="160" height="90">
+<img style="float: left; margin:5px 10px" src="../images/chain_bt_end_fix.png" width="160" height="90" style="object-fit: fill;">
 ### Robotic Manipulation of a Rotating Chain with Bottom End Fixed  
 <p style="line-height:1.0">
 <font size="2">
