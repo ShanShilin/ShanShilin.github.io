@@ -93,7 +93,7 @@ IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2023
 <div style="clear: both;"></div>
 -----
 
-<img src="../images/est_force_inter_DLO" style="float:left; width:160px !important; height:115px !important; object-fit:fill; max-width:none !important; display:inline-block !important; margin:5px 10px;">
+<img src="../images/est_force_inter_DLO.png" style="float:left; width:160px !important; height:115px !important; object-fit:fill; max-width:none !important; display:inline-block !important; margin:5px 10px;">
 ### Estimating Force Interactions of Deformable Linear Objects from their Shapes  
 <p style="line-height:1.0">
 <font size="2">
