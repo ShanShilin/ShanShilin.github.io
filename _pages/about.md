@@ -132,7 +132,7 @@ Awards
 Professional Service
 -----
 
-Reviewer: RA-L, TASE, ICRA, IROS <br />
+Reviewer: RA-L, T-ASE, ICRA, IROS <br />
 
 Teaching
 -----
