@@ -17,6 +17,7 @@ Shilin earned his Bachelor's degree from Nanyang Technological University (2021)
 
 News
 -----
+∙ [2026-01] One paper accepted to ICRA 2026 <br />
 ∙ [2025-03] One paper accepted to IROS 2025 <br />
 ∙ [2024-09] One paper accepted to RA-L <br />
 ∙ [2024-01] One paper accepted to ICRA 2024 <br />
@@ -117,7 +118,7 @@ Awards
 Professional Service
 -----
 
-Reviewer: RA-L, ICRA, IROS <br />
+Reviewer: RA-L, TASE, ICRA, IROS <br />
 
 Teaching
 -----
