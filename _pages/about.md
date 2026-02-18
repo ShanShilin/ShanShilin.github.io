@@ -30,7 +30,7 @@ Education
 ### Nanyang Technological University
 <p style="line-height:1.0">
 <font size="2">
-Aug 2021 - Present<br />
+Aug 2021 - Feb 2026<br />
 Ph.D. student at School of Mechanical and Areospace Engineering<br />
 </font>
 </p>
@@ -87,6 +87,20 @@ IEEE International Conference on Robotics and Automation (<strong>ICRA</strong>)
 IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2023
 <a href="https://arxiv.org/pdf/2301.13413">Paper</a> | 
 <a href="https://youtu.be/spztx3GzPzc">Video</a>
+<br />
+</font>
+</p>
+<div style="clear: both;"></div>
+-----
+
+<img src="../images/est_force_inter_DLO" style="float:left; width:160px !important; height:115px !important; object-fit:fill; max-width:none !important; display:inline-block !important; margin:5px 10px;">
+### Estimating Force Interactions of Deformable Linear Objects from their Shapes  
+<p style="line-height:1.0">
+<font size="2">
+Chen Qi Jing†, <strong> Shan Shilin </strong>, Timothy Bretl, Quang-Cuong Pham <br />
+IEEE International Conference on Robotics and Automation (<strong>ICRA</strong>), 2026
+<a href="https://arxiv.org/pdf/2602.01085">Paper</a> | 
+<a href="https://www.youtube.com/watch?v=_jDbKWxA19w">Video</a>
 <br />
 </font>
 </p>
