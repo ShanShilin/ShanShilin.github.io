@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Shilin Shan is currently a postdoctoral research fellow at the [MARS Lab](https://marslab.tech/), Nanyang Technological University (NTU), working with Asst. Prof. [Jianfei Yang](https://marsyang.site/). His research focuses on force- and tactile-aware robot learning, multimodal VLA models, and generalizable manipulation for embodied AI.
+Shilin Shan is currently a postdoctoral research fellow at the [MARS Lab](https://marslab.tech/), Nanyang Technological University (NTU), working with Prof. [Jianfei Yang](https://marsyang.site/). His research focuses on force- and tactile-aware robot learning, multimodal VLA models, and generalizable manipulation for embodied AI.
 
 Shilin Shan obtained his Ph.D. degree at NTU, specializing in robotic manipulation, dynamics modeling, and physical human-robot interaction with a focus on deep learning. He was supervised by Prof. Quang-Cuong Pham and Prof. Domenico Campolo. 
 
