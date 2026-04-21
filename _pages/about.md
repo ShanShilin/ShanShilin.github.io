@@ -7,16 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Shilin Shan is a Ph.D. candidate at [Nanyang Technological University](https://www.ntu.edu.sg), specializing in robotic manipulation, dynamics modeling, and physical human-robot interaction with a focus on deep learning. He is supervised by Prof. Quang-Cuong Pham and Prof. Domenico Campolo. 
+Shilin Shan is currently a postdoctoral research fellow at the [MARS Lab](https://marslab.tech/), Nanyang Technological University (NTU), working with Asst. Prof. [Jianfei Yang](https://marsyang.site/). His research focuses on force- and tactile-aware robot learning, multimodal VLA models, and generalizable manipulation for embodied AI.
 
-Shilin earned his Bachelor's degree from Nanyang Technological University (2021) with Highest Distinction.
+Shilin Shan obtained his Ph.D. degree at NTU, specializing in robotic manipulation, dynamics modeling, and physical human-robot interaction with a focus on deep learning. He was supervised by Prof. Quang-Cuong Pham and Prof. Domenico Campolo. 
 
-[Email](mailto:SHILIN001@e.ntu.edu.sg)
+Shilin earned his Bachelor's degree from Mechanical and Areospace Engineering (MAE), Nanyang Technological University (NTU) in 2021 with Highest Distinction.
+
+[Email](mailto:shilin.shan@ntu.edu.sg)
 [LinkedIn](https://www.linkedin.com/in/shilin-shan-99475a17b/)
 
 
 News
 -----
+∙ [2026-04] Joined MARS Lab, NTU as a postdoc research fellow <br />
 ∙ [2026-01] One paper accepted to ICRA 2026 <br />
 ∙ [2025-03] One paper accepted to IROS 2025 <br />
 ∙ [2024-09] One paper accepted to RA-L <br />
