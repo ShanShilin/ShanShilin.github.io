@@ -11,7 +11,7 @@ Shilin Shan is currently a postdoctoral research fellow at the [MARS Lab](https:
 
 Shilin Shan obtained his Ph.D. degree at NTU, specializing in robotic manipulation, dynamics modeling, and physical human-robot interaction with a focus on deep learning. He was supervised by Prof. Quang-Cuong Pham and Prof. Domenico Campolo. 
 
-Shilin earned his Bachelor's degree from Mechanical and Areospace Engineering (MAE), Nanyang Technological University (NTU) in 2021 with Highest Distinction.
+Shilin earned his Bachelor's degree from Mechanical and Aerospace Engineering (MAE), Nanyang Technological University (NTU) in 2021 with Highest Distinction.
 
 [Email](mailto:shilin.shan@ntu.edu.sg)
 [LinkedIn](https://www.linkedin.com/in/shilin-shan-99475a17b/)
@@ -26,7 +26,7 @@ News
 ∙ [2024-09] One paper accepted to RA-L <br />
 ∙ [2024-01] One paper accepted to ICRA 2024 <br />
 ∙ [2023-12] One paper accepted to RA-L <br />
-∙ [2021-08] Start Ph.D. in School of Mechanical and Areospace Engineering in NTU <br />
+∙ [2021-08] Start Ph.D. in School of Mechanical and Aerospace Engineering in NTU <br />
 
 Education
 -----
@@ -35,7 +35,7 @@ Education
 <p style="line-height:1.0">
 <font size="2">
 Aug 2021 - Feb 2026<br />
-Ph.D. student at School of Mechanical and Areospace Engineering<br />
+Ph.D. student at School of Mechanical and Aerospace Engineering<br />
 </font>
 </p>
 -----
@@ -130,7 +130,7 @@ Awards
 -----
 ∙ [2021] NTU Ph.D. Research Scholarship<br />
 ∙ [2019] NTU President Research Scholar<br />
-∙ [2018 & 2019] Dean’s List (School of Mechanical and Areospace Engineering)<br />
+∙ [2018 & 2019] Dean’s List (School of Mechanical and Aerospace Engineering)<br />
 ∙ [2017] NTU Science and Engineering Undergraduate Scholarship<br />
 
 Professional Service
