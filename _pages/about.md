@@ -15,6 +15,7 @@ Shilin earned his Bachelor's degree from Mechanical and Areospace Engineering (M
 
 [Email](mailto:shilin.shan@ntu.edu.sg)
 [LinkedIn](https://www.linkedin.com/in/shilin-shan-99475a17b/)
+[Scholar](https://scholar.google.com/citations?user=O9U1ZYkAAAAJ&hl)
 
 
 News
