@@ -24,15 +24,15 @@ author:
   # Biographic information
   name             : "Shilin Shan 单施霖"
   avatar           : "profile.png"
-  bio              : "Robotics PhD student at NTU"
+  bio              : "Research Fellow at MARS Lab"
   location         : "Singapore"
   employer         : 
   uri              : 
-  email            : "SHILIN001@e.ntu.edu.sg" 
+  email            : "shilin.shan@ntu.edu.sg" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   # impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   # semantic         : # URL
