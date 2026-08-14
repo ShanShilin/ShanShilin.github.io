@@ -55,7 +55,25 @@ CGPA: 4.82 / 5.00 <br />
 Publications
 -----
 
-†: corresponding author <br />
+<sup>*</sup>: equal contribution (co-first authors) <br />
+<sup>‡</sup>: project lead <br />
+<sup>†</sup>: corresponding author <br />
+
+<div style="display:flex; align-items:flex-start; gap:10px;">
+<img src="../images/TF_ART_survey_teaser.png" style="flex:0 0 160px; width:160px !important; height:90px !important; object-fit:cover; object-position:center; max-width:none !important; display:block !important; margin:5px 0;">
+<div style="flex:1; min-width:0;">
+<h3 style="margin-top:0;">Learning Physical Interaction: A Survey of Tactile- and Force-aware Robot Learning</h3>
+<p style="line-height:1.0">
+<font size="2">
+<strong>Shilin Shan<sup>*,‡</sup></strong>, Chuhao Zhou<sup>*</sup>, Ruize Wang<sup>*</sup>, Xinyan Chen<sup>*</sup>, Xiangyu Chen<sup>*</sup>, Xinyu Zhou<sup>*</sup>, Boyu Ma<sup>*</sup>, Iris Yuxuan Hu, Jingliang Li, Celeste Yuxuan Hu, Geng Li, Guohao Chen, Tianrui Zhu, Zhe Li, Yanjie Ze, Haoran Geng, Zhiyang Dou, Jianxin Bi, Yuejiang Liu, Jianshu Zhou, Jiachen Li, Paul Liang, Tatsuya Harada, Robert Katzschmann, Harold Soh, Na Li, Edward Johns, Danica Kragic, Jan Peters, Wojciech Matusik, Masayoshi Tomizuka, Jitendra Malik, Jianfei Yang<sup>†</sup> <br />
+arXiv preprint, 2026
+<a href="https://arxiv.org/abs/2608.07558">Paper</a>
+<br />
+</font>
+</p>
+</div>
+</div>
+-----
 
 <img style="float: left; margin:5px 10px" src="../images/fast_payload_calib_teasor_new.png" width="160" height="106">
 ### Fast Payload Calibration for Sensorless Contact Estimation Using Model Pre-training
