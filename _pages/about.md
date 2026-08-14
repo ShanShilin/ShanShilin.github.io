@@ -69,8 +69,6 @@ arXiv preprint, 2026
 <br />
 </font>
 </p>
-</div>
-</div>
 -----
 
 <img style="float: left; margin:5px 10px" src="../images/fast_payload_calib_teasor_new.png" width="160" height="106">
