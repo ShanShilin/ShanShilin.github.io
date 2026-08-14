@@ -59,9 +59,7 @@ Publications
 <sup>‡</sup>: project lead <br />
 <sup>†</sup>: corresponding author <br />
 
-<div style="display:flex; align-items:flex-start; gap:10px;">
-<img src="../images/TF_ART_survey_teaser.png" style="flex:0 0 160px; width:160px !important; height:140px !important; object-fit:cover; object-position:center; max-width:none !important; display:block !important; margin:5px 0;">
-<div style="flex:1; min-width:0;">
+<img style="float: left; margin:5px 10px" src="../images/TF_ART_survey_teaser.png" width="160" height="106">
 ### Learning Physical Interaction: A Survey of Tactile- and Force-aware Robot Learning
 <p style="line-height:1.0">
 <font size="2">
