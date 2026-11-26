@@ -68,7 +68,7 @@ Publications
 <strong>Shilin Shan<sup>*,‡</sup></strong>, Yuxuan Hu<sup>*</sup>, Chuhao Zhou<sup>*</sup>, Yimeng Dong, Bohan Hou, Jiaqi Bai, Boyu Ma, Jiahua Dong, Jianfei Yang<sup>†</sup> <br />
 arXiv preprint, 2026
 <a href="https://arxiv.org/abs/2611.29377">Paper</a> |
-<a href="https://ntumars.github.io/ContactHarness/">Project</a> |
+<a href="https://ntumars.github.io/ContactHarness/">Project Page</a> |
 <a href="https://github.com/NTUMARS/Contact-Harness">Code</a>
 <br />
 </font>
