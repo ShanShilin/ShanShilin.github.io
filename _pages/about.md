@@ -59,8 +59,28 @@ Publications
 <sup>‡</sup>: project lead <br />
 <sup>†</sup>: corresponding author <br />
 
-<img style="float: left; margin:5px 10px" src="../images/TF_ART_survey_teaser.png" width="160" height="140">
-### Learning Physical Interaction: A Survey of Tactile- and Force-aware Robot Learning
+<div class="publication-entry">
+  <img src="../images/contact_harness_teaser.png" alt="Contact Harness: Enabling VLM Agents to Perform Contact-Rich Manipulation" width="160" height="92" />
+  <div class="publication-entry__text">
+    <h3 id="contact-harness-enabling-vlm-agents-to-perform-contact-rich-manipulation">Contact Harness: Enabling VLM Agents to Perform Contact-Rich Manipulation</h3>
+<p style="line-height:1.0">
+<font size="2">
+<strong>Shilin Shan<sup>*,‡</sup></strong>, Yuxuan Hu<sup>*</sup>, Chuhao Zhou<sup>*</sup>, Yimeng Dong, Bohan Hou, Jiaqi Bai, Boyu Ma, Jiahua Dong, Jianfei Yang<sup>†</sup> <br />
+arXiv preprint, 2026
+<a href="https://arxiv.org/abs/2611.29377">Paper</a> |
+<a href="https://ntumars.github.io/ContactHarness/">Project</a> |
+<a href="https://github.com/NTUMARS/Contact-Harness">Code</a>
+<br />
+</font>
+</p>
+  </div>
+</div>
+<hr />
+
+<div class="publication-entry">
+  <img src="../images/TF_ART_survey_teaser.png" alt="Learning Physical Interaction: A Survey of Tactile- and Force-aware Robot Learning" width="160" height="140" />
+  <div class="publication-entry__text">
+    <h3 id="learning-physical-interaction-a-survey-of-tactile--and-force-aware-robot-learning">Learning Physical Interaction: A Survey of Tactile- and Force-aware Robot Learning</h3>
 <p style="line-height:1.0">
 <font size="2">
 <strong>Shilin Shan<sup>*,‡</sup></strong>, Chuhao Zhou<sup>*</sup>, Ruize Wang<sup>*</sup>, Xinyan Chen<sup>*</sup>, Xiangyu Chen<sup>*</sup>, Xinyu Zhou<sup>*</sup>, Boyu Ma<sup>*</sup>, Iris Yuxuan Hu, Jingliang Li, Celeste Yuxuan Hu, Geng Li, Guohao Chen, Tianrui Zhu, Zhe Li, Yanjie Ze, Haoran Geng, Zhiyang Dou, Jianxin Bi, Yuejiang Liu, Jianshu Zhou, Jiachen Li, Paul Liang, Tatsuya Harada, Robert Katzschmann, Harold Soh, Na Li, Edward Johns, Danica Kragic, Jan Peters, Wojciech Matusik, Masayoshi Tomizuka, Jitendra Malik, Jianfei Yang<sup>†</sup> <br />
@@ -69,10 +89,14 @@ arXiv preprint, 2026
 <br />
 </font>
 </p>
------
+  </div>
+</div>
+<hr />
 
-<img style="float: left; margin:5px 10px" src="../images/fast_payload_calib_teasor_new.png" width="160" height="106">
-### Fast Payload Calibration for Sensorless Contact Estimation Using Model Pre-training
+<div class="publication-entry">
+  <img src="../images/fast_payload_calib_teasor_new.png" alt="Fast Payload Calibration for Sensorless Contact Estimation Using Model Pre-training" width="160" height="106" />
+  <div class="publication-entry__text">
+    <h3 id="fast-payload-calibration-for-sensorless-contact-estimation-using-model-pre-training">Fast Payload Calibration for Sensorless Contact Estimation Using Model Pre-training</h3>
 <p style="line-height:1.0">
 <font size="2">
 <strong>Shilin Shan†</strong>, Quang-Cuong Pham <br />
@@ -82,10 +106,14 @@ IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2024
 <br />
 </font>
 </p>
------
+  </div>
+</div>
+<hr />
 
-<img style="float: left; margin:5px 10px" src="../images/sensorless_contact_est_teasor_new.png" width="160" height="96">
-### Sensorless Estimation of Contact Using Deep-Learning for Human-robot Interaction
+<div class="publication-entry">
+  <img src="../images/sensorless_contact_est_teasor_new.png" alt="Sensorless Estimation of Contact Using Deep-Learning for Human-robot Interaction" width="160" height="96" />
+  <div class="publication-entry__text">
+    <h3 id="sensorless-estimation-of-contact-using-deep-learning-for-human-robot-interaction">Sensorless Estimation of Contact Using Deep-Learning for Human-robot Interaction</h3>
 <p style="line-height:1.0">
 <font size="2">
 <strong>Shilin Shan†</strong>, Quang-Cuong Pham <br />
@@ -95,10 +123,14 @@ IEEE International Conference on Robotics and Automation (<strong>ICRA</strong>)
 <br />
 </font>
 </p>
------
+  </div>
+</div>
+<hr />
 
-<img src="../images/Fine_sensorless_manip_teasor_new.png" style="float:left; width:160px !important; height:110px !important; object-fit:fill; max-width:none !important; display:inline-block !important; margin:5px 10px;">
-### Fine Robotic Manipulation without Force/Torque Sensor
+<div class="publication-entry">
+  <img src="../images/Fine_sensorless_manip_teasor_new.png" alt="Fine Robotic Manipulation without Force/Torque Sensor" width="160" height="110" />
+  <div class="publication-entry__text">
+    <h3 id="fine-robotic-manipulation-without-forcetorque-sensor">Fine Robotic Manipulation without Force/Torque Sensor</h3>
 <p style="line-height:1.0">
 <font size="2">
 <strong>Shilin Shan†</strong>, Quang-Cuong Pham <br />
@@ -108,11 +140,14 @@ IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2023
 <br />
 </font>
 </p>
-<div style="clear: both;"></div>
------
+  </div>
+</div>
+<hr />
 
-<img src="../images/est_force_inter_DLO.png" style="float:left; width:160px !important; height:115px !important; object-fit:fill; max-width:none !important; display:inline-block !important; margin:5px 10px;">
-### Estimating Force Interactions of Deformable Linear Objects from their Shapes  
+<div class="publication-entry">
+  <img src="../images/est_force_inter_DLO.png" alt="Estimating Force Interactions of Deformable Linear Objects from their Shapes" width="160" height="115" />
+  <div class="publication-entry__text">
+    <h3 id="estimating-force-interactions-of-deformable-linear-objects-from-their-shapes">Estimating Force Interactions of Deformable Linear Objects from their Shapes</h3>
 <p style="line-height:1.0">
 <font size="2">
 Chen Qi Jing†, <strong> Shan Shilin </strong>, Timothy Bretl, Quang-Cuong Pham <br />
@@ -122,11 +157,14 @@ IEEE International Conference on Robotics and Automation (<strong>ICRA</strong>)
 <br />
 </font>
 </p>
-<div style="clear: both;"></div>
------
+  </div>
+</div>
+<hr />
 
-<img src="../images/chain_bt_end_fix.png" style="float:left; width:160px !important; height:115px !important; object-fit:fill; max-width:none !important; display:inline-block !important; margin:5px 10px;">
-### Robotic Manipulation of a Rotating Chain with Bottom End Fixed  
+<div class="publication-entry">
+  <img src="../images/chain_bt_end_fix.png" alt="Robotic Manipulation of a Rotating Chain with Bottom End Fixed" width="160" height="115" />
+  <div class="publication-entry__text">
+    <h3 id="robotic-manipulation-of-a-rotating-chain-with-bottom-end-fixed">Robotic Manipulation of a Rotating Chain with Bottom End Fixed</h3>
 <p style="line-height:1.0">
 <font size="2">
 Chen Qi Jing†, <strong> Shan Shilin </strong>, Quang-Cuong Pham <br />
@@ -136,9 +174,9 @@ IEEE International Conference on Intelligent Robots and Systems (<strong>IROS</s
 <br />
 </font>
 </p>
-<div style="clear: both;"></div>
------
-
+  </div>
+</div>
+<hr />
 
 Awards
 -----
