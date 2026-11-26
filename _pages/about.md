@@ -85,7 +85,8 @@ arXiv preprint, 2026
 <font size="2">
 <strong>Shilin Shan<sup>*,‡</sup></strong>, Chuhao Zhou<sup>*</sup>, Ruize Wang<sup>*</sup>, Xinyan Chen<sup>*</sup>, Xiangyu Chen<sup>*</sup>, Xinyu Zhou<sup>*</sup>, Boyu Ma<sup>*</sup>, Iris Yuxuan Hu, Jingliang Li, Celeste Yuxuan Hu, Geng Li, Guohao Chen, Tianrui Zhu, Zhe Li, Yanjie Ze, Haoran Geng, Zhiyang Dou, Jianxin Bi, Yuejiang Liu, Jianshu Zhou, Jiachen Li, Paul Liang, Tatsuya Harada, Robert Katzschmann, Harold Soh, Na Li, Edward Johns, Danica Kragic, Jan Peters, Wojciech Matusik, Masayoshi Tomizuka, Jitendra Malik, Jianfei Yang<sup>†</sup> <br />
 arXiv preprint, 2026
-<a href="https://arxiv.org/abs/2608.07558">Paper</a>
+<a href="https://arxiv.org/abs/2608.07558">Paper</a> |
+<a href="https://lorenzo-0-0.github.io/tactile-force-survey/">Project Page</a>
 <br />
 </font>
 </p>
