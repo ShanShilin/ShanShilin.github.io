@@ -95,6 +95,23 @@ arXiv preprint, 2026
 <hr />
 
 <div class="publication-entry">
+  <img src="../images/freespeed_teaser.png" alt="FreeSpeed: Training-Free Speed Control for Generative Robot Policies" width="160" height="82" />
+  <div class="publication-entry__text">
+    <h3 id="freespeed-training-free-speed-control-for-generative-robot-policies">FreeSpeed: Training-Free Speed Control for Generative Robot Policies</h3>
+<p style="line-height:1.0">
+<font size="2">
+Yuxuan Hu<sup>*</sup>, <strong>Shilin Shan<sup>*</sup></strong>, Qiheng Wang, Jinghan Yang, Junqiao Fan, Hao Wan, Jianfei Yang<sup>†</sup> <br />
+arXiv preprint, 2026
+<a href="https://arxiv.org/abs/2610.05734">Paper</a> |
+<a href="https://yuxuanhu9.github.io/FreeSpeed/">Project Page</a>
+<br />
+</font>
+</p>
+  </div>
+</div>
+<hr />
+
+<div class="publication-entry">
   <img src="../images/fast_payload_calib_teasor_new.png" alt="Fast Payload Calibration for Sensorless Contact Estimation Using Model Pre-training" width="160" height="106" />
   <div class="publication-entry__text">
     <h3 id="fast-payload-calibration-for-sensorless-contact-estimation-using-model-pre-training">Fast Payload Calibration for Sensorless Contact Estimation Using Model Pre-training</h3>
